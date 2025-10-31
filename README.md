@@ -1,6 +1,6 @@
 # Optimization for Machine Learning — Project Summary
 
-This project explores first-order optimization methods studied in class through two main experiments:
+This project explores  some first-order optimization methods through two main experiments:
 
 1. **Gradient Method and Step Size Analysis**  
    A single-hidden-layer neural network is trained on synthetic data to study the influence of the learning rate.  
