@@ -3,7 +3,7 @@
 This project explores  some first-order optimization methods through two main experiments:
 
 1. **Gradient Method and Step Size Analysis**  
-   A single-hidden-layer neural network is trained on synthetic data to study the influence of the learning rate.  
+   A single-hidden-layer neural network is trained on synthetic data to study the influence of the dimension on the learning rate.  
    We analyze convergence speed, stability, and accuracy across several network sizes and identify empirical scaling laws for the optimal step size.
 
 2. **Nesterov Accelerated Gradient Methods**  
